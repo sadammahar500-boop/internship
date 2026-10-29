@@ -4,3 +4,9 @@ numpy
 # optional (real CV parsing):
 pypdf
 python-docx
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+# optional - real CV parsing (PDF / DOCX):
+pypdf
+python-docx
